@@ -1,0 +1,5 @@
+print("Digame su(s) nombres(s): ")
+nombre=input()
+print("Digame su(s) apellidos(s): ")
+apellido=input()
+print("Me alegro de conocerle, ",nombre, apellido)
